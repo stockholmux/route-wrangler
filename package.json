@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "main": "./route-wrangler.node.js",
   "author": {
-    "name": "Kyle J. Davis",
+    "name": "Kyle J. Davis"
   },
   "license": "MIT",
   "dependencies": {},
