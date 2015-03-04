@@ -1,7 +1,7 @@
 {
   "name": "route-wrangler",
   "description": "Manage Express routes with simple arrays",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./route-wrangler.node.js",
   "author": {
     "name": "Kyle J. Davis"
