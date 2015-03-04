@@ -1,0 +1,15 @@
+{
+  "name": "route-wrangler",
+  "description": "Manage Express routes with simple arrays",
+  "version": "0.0.1",
+  "main": "./route-wrangler.node.js",
+  "author": {
+    "name": "Kyle J. Davis",
+  },
+  "license": "MIT",
+  "dependencies": {},
+   "repository": {
+    "type": "git",
+    "url": "https://akureryi@bitbucket.org/akureryi/route-wrangler.git"
+  }
+}
